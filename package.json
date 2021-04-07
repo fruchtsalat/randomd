@@ -1,0 +1,32 @@
+{
+  "name": "bissen",
+  "version": "1.0.0",
+  "description": "Output content of random markdown file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fruchtsalat/bissen.git"
+  },
+  "keywords": [
+    "cli",
+    "markdown"
+  ],
+  "author": "niclas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fruchtsalat/bissen/issues"
+  },
+  "homepage": "https://github.com/fruchtsalat/bissen#readme",
+  "dependencies": {
+    "marked": "^2.0.1",
+    "marked-terminal": "^4.1.1",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "prettier": "^2.2.1"
+  }
+}
