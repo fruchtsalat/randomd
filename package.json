@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Output content of a random markdown file",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
