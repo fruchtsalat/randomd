@@ -1,3 +1,3 @@
-# bissen
+# randomd
 
-Output content of random markdown files
+Output the content of a random markdown file.
